@@ -1,0 +1,30 @@
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'fun'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template2'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template3'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template13'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template14'
+[2024-01-08 18:08:37] [ERROR   ] discord_bot: Failed to load extension template15
+NoEntryPointError: Extension 'cogs.template15' has no 'setup' function.
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template8'
+[2024-01-08 18:08:37] [INFO    ] discord_bot: Loaded extension 'template12'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template9'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'general'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template11'
+[2024-01-08 18:08:38] [ERROR   ] discord_bot: Failed to load extension template17
+ExtensionFailed: Extension 'cogs.template17' raised an error: SyntaxError: 'await' outside async function (template17.py, line 35)
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template4'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'owner'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template10'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template18'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template20'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template16'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template6'
+[2024-01-08 18:08:38] [INFO    ] discord_bot: Loaded extension 'template19'
+[2024-01-08 18:08:41] [INFO    ] discord_bot: Logged in as Droid-Pet
+[2024-01-08 18:08:41] [INFO    ] discord_bot: discord.py API version: 2.3.2
+[2024-01-08 18:08:41] [INFO    ] discord_bot: Python version: 3.10.8
+[2024-01-08 18:08:41] [INFO    ] discord_bot: Running on: Linux 6.2.0-1019-gcp (posix)
+[2024-01-08 18:08:41] [INFO    ] discord_bot: -------------------
+[2024-01-08 18:08:41] [INFO    ] discord_bot: Syncing commands globally...
