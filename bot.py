@@ -13,7 +13,6 @@ import os
 import platform
 import random
 import sys
-from keep_alive import keep_alive
 import aiosqlite
 import discord
 from discord.ext import commands, tasks
@@ -303,5 +302,5 @@ async def load_cogs() -> None:
 asyncio.run(init_db())
 asyncio.run(load_cogs())
 
-keep_alive()
+
 bot.run(os.environ["DISCORD_TOKEN"])
